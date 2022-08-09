@@ -57,7 +57,7 @@
   *  (Alex N) proposed to defer or move to potential for this FIP. This FIP depends on negotiations with the FVM team over timeline.
   *  (Raul) commented that this will be a large endeavor. If we are not ready, and we ship FVM programmability and devs cannot program things they want to program, it will not go well. We need to have a user driven discussion and understand what the use cases are and make sure that APIs that we ship first cover 80% of use cases that devs are ready to build. FF may be able to help steward this conversation. Kaitlin recommended we start this conversation publicly.
 #### Potential FIPS
-* FIP0036 - Introducing a Sector Duration Multiple for Longer Term Storage Commitment.
+* [FIP0036 - Introducing a Sector Duration Multiple for Longer Term Storage Commitment](https://github.com/filecoin-project/FIPs/blob/master/FIPS/fip-0036.md)
   * (Alex N) This invalidates the previous security policy on rotating sectors every 1 1/2 years. We need to have a security discussion prior to FIP0036 going into confirmed.
 #### Timeline
 * Butterflynet upgrade: End of Aug
